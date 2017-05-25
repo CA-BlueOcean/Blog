@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to CA Blue Ocean 
 
-You can use the [editor on GitHub](https://github.com/CA-BlueOcean/Blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+CA Blue Ocean is an organization that promotes ideas and solutions for the shared economy and smart communities.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Nowadays the common citizen have access to infrastructure and communication channels that permits the development of digital solutions with high impact for large groups. Potentialy world wide.
 
-### Markdown
+The great challenge is bringing together people with the genuine interest, knowledge and time to go from an idea to the solution. CA Blue Ocean has the mission to contribute to overcome this challenge.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Welcome. Check our current initiatives. Bring and realize your ideas.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CA-BlueOcean/Blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
