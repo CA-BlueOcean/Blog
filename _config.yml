@@ -1,2 +1,5 @@
 theme: jekyll-theme-slate
 title: CA Blue Ocean Blog 
+description: Find out about initiatives and how to join this community
+baseurl: "/Blog"
+url: "https://ca-blueocean.github.io"
